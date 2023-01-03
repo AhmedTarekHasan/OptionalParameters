@@ -1,10 +1,10 @@
-<link rel="canonical" href="" />
+<link rel="canonical" href="https://levelup.gitconnected.com/dangers-of-using-optional-parameters-in-net-c-a953315672fb?sk=44f37238b375eecead60ced726330b24" />
 
 # Why To Be Cautious When Using Optional Parameters In .NET C#
 ### Something dangerous you didn't know about Optional Parameters in .NET C#
 
 <p align="center">
-  <!--<img src="">-->
+  <img src="https://miro.medium.com/max/1400/1*ufkSbIzsIyIJvD8oNuDYOw.webp">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: 
+[Article]: https://levelup.gitconnected.com/dangers-of-using-optional-parameters-in-net-c-a953315672fb?sk=44f37238b375eecead60ced726330b24
